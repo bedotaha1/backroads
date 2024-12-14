@@ -77,7 +77,7 @@ export const Services = [
     }
 ]
 
-export const lorem = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur quisquam harum nam cumque temporibus explicabo dolorumsapiente odio unde dolor ?"
+export const lorem = "Lorem ipsum, dolor sit amet consectetur adipisicinvg elit. Aspernatur quisquam harum nam cumque temporibus explicabo dolorumsapiente odio unde dolor ?"
 
 
 
