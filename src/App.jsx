@@ -1,14 +1,9 @@
-import { useState } from 'react'
-import about from '../public/images/about.jpeg'
-import favicon from '../public/images/favicon.ico'
 import logo from '../public/images/logo.svg'
 import main from '../public/images/main.jpeg'
 
 import { tourCards, Services, lorem, links, footerIcons } from './Data/data.js'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   const nav = ['home', 'about', 'services', 'tours']
 
   return (
